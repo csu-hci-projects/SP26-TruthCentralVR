@@ -593,6 +593,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 482137616291836526, guid: 3ef057dd11054ff46a285ea6e984ea7f, type: 3}
+      propertyPath: deleteCSVOnStart
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 578138605160090536, guid: 3ef057dd11054ff46a285ea6e984ea7f, type: 3}
       propertyPath: m_Enabled
       value: 0
